@@ -49,11 +49,13 @@
         height: 83vh;
         margin-bottom: 0;
          
-            
-
     }
     article {
         font-size: 1rem;
+    }
+    .title {
+        padding-top: 5px;
+        padding-bottom: 30px;
     }
 
     footer nav {
@@ -89,6 +91,11 @@
         height: 80vw;
         justify-content: center;
     }
+
+    .small {
+        display: none;
+    }
+
     .section__text__p2 {
         font-size: 1.25rem;
     }
